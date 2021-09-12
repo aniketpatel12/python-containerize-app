@@ -3,7 +3,7 @@ import boto3
 
 def handler(event, context):
     s3_client = boto3.client('s3')
-    s3_clientObj = s3_client.get_object(Bucket='demo-temp-bucket', Key = 'datafile.txt')
+    s3_clientObj = s3_client.get_object(Bucket='demo-tempp-bucket', Key = 'datafile.txt')
 
     for line in s3_clientObj['Body'].iter_lines():
         obj = json.loads(line)
