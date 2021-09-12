@@ -1,10 +1,2 @@
 {"Name":{"Fnm":"ABC"}, "id":{"n":99}}
 {"Name":{"Fnm":"EFG"}, "id":{"n":89}}
-{"Name":{"Fnm":"HIJ"}, "id":{"n":79}}
-{"Name":{"Fnm":"abc"}, "id":{"n":69}}
-{"Name":{"Fnm":"efg"}, "id":{"n":59}}
-{"Name":{"Fnm":"hij"}, "id":{"n":49}}
-{"Name":{"Fnm":"XYZ"}, "id":{"n":39}}
-{"Name":{"Fnm":"POR"}, "id":{"n":29}}
-{"Name":{"Fnm":"OP"}, "id":{"n":19}}
-{"Name":{"Fnm":"NM"}, "id":{"n":9}}
